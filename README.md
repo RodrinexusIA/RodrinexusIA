@@ -1,41 +1,46 @@
 # Rodrigo Fabrício Velozo (RodrinexusIA)
 
-Full‑Stack Developer focado em **SaaS**, **automação** e **cibersegurança defensiva**. Curto construir produtos com back-end sólido, UI bem acabada e preocupação real com segurança.
+Full‑Stack Developer com foco em **SaaS**, **automação** e **cibersegurança defensiva**. Entrego MVPs rápidos, mas com **back-end sólido**, **UI bem cuidada** e **preocupação real com segurança**.
 
 - **GitHub**: [@RodrinexusIA](https://github.com/RodrinexusIA)
-- **Org/Marca**: Instituto Nexus
+- **Instituto/Marca**: Instituto Nexus
 
-## Principais stacks
+## Especialidades (o que eu faço bem)
 
-- **Backend**: PHP (Laravel), APIs REST, autenticação, regras de negócio, jobs/queues
-- **Frontend**: Vue.js, Axios, Bootstrap, UX para MVPs
-- **Banco**: SQLite/MySQL (modelagem + migrations)
-- **Segurança**: análise defensiva, threat detection (YARA/Sigma), foco em boas práticas e redução de superfície de ataque
+- **APIs e produtos SaaS**: autenticação, regras de negócio, rotas protegidas, integrações
+- **Full‑Stack pragmático**: back-end + front (Vue) para demonstrar produto funcionando
+- **Segurança defensiva**: análise de malware, engenharia de detecção, mindset de hardening
 
-## Projetos em destaque
+## Tech stack (principal)
+
+- **Backend**: PHP • Laravel • REST • Auth • Migrations
+- **Frontend**: Vue 2 • Axios • Bootstrap • SweetAlert2
+- **DB**: SQLite / MySQL
+- **Security**: YARA • Sigma • threat detection • blue-team mindset
+
+## Projetos em destaque (portfólio)
 
 ### RodCassino — demo full‑stack (Laravel + Vue)
-Projeto **demo** com Slots e Blackjack, pensado para portfólio.
+- **O que mostra**: UI/UX de MVP + endpoints server-side + rotas protegidas + fluxo de saldo
+- **Stack**: Laravel 5.7 + Vue 2 + SQLite (local)
+- **Repo**: `https://github.com/RodrinexusIA/rodcassino`
 
-- Rotas protegidas, fluxo de saldo no servidor, README e setup local pronto
-- Link: `https://github.com/RodrinexusIA/rodcassino`
+### RAT Defensive Analysis Lab — blue team / detecção
+- **O que mostra**: análise defensiva e engenharia de detecção (YARA/Sigma)
+- **Repo**: `https://github.com/RodrinexusIA/rat-defensive-analysis-lab`
 
-### rat-defensive-analysis-lab — lab defensivo (malware analysis / detecção)
-Laboratório com foco em **análise defensiva** e engenharia de detecção.
+### Safe Exploit Education Lab — segurança defensiva (educacional)
+- **O que mostra**: conteúdo/experimentos com mentalidade defensiva e boas práticas
+- **Repo**: `https://github.com/RodrinexusIA/safe-exploit-education-lab`
 
-- Tópicos: malware analysis, blue team, threat detection, YARA, Sigma
-- Link: `https://github.com/RodrinexusIA/rat-defensive-analysis-lab`
+## Oportunidades
 
-### safe-exploit-education-lab — educação defensiva (segurança)
-Projeto educacional/portfólio com foco em **segurança defensiva**, análise e boas práticas.
-
-- Link: `https://github.com/RodrinexusIA/safe-exploit-education-lab`
-
-## O que eu busco
-
-Vagas onde eu possa atuar como **Full‑Stack** (ou Back‑end com front), entregando MVPs com qualidade, segurança e iteração rápida.
+Estou aberto a oportunidades como:
+- **Full‑Stack (Laravel/Vue)**
+- **Back‑end (APIs / SaaS)**
+- **Security (defensive / detection engineering)** — dependendo do contexto
 
 ## Contato
 
-Abra uma issue em um repo, ou me chame via GitHub.
+- Me chama por aqui no GitHub (issues/discussions) ou via DM.
 
