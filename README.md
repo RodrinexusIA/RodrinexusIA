@@ -67,7 +67,14 @@ O **SaaS judicial** (coleta, jobs assíncronos, consulta e exportação de dados
 
 ## Pré-visualização (capturas de tela)
 
-Capturas alinhadas aos READMEs dos repositórios (**RodCassino**, **RAT Defensive Analysis Lab**, **Safe Exploit Education Lab**).
+Capturas alinhadas aos READMEs dos repositórios (**Safe Exploit Education Lab**, **RodCassino**, **RAT Defensive Analysis Lab**). O output do lab (incluindo **RU** no terminal) aparece em primeiro — pipeline educativo de análise / simulação **sem exploit real** e **sem payload**.
+
+### Safe Exploit Education Lab
+
+<p align="center">
+  <sub>Laboratório educativo — relatório em terminal (simulação segura)</sub><br />
+  <img src="./assets/lab-exploit-education-terminal.png" alt="Safe Exploit Education Lab — pipeline educativo (terminal)" width="720" />
+</p>
 
 ### RodCassino (Laravel + Vue)
 
@@ -85,13 +92,6 @@ Capturas alinhadas aos READMEs dos repositórios (**RodCassino**, **RAT Defensiv
   <br /><br />
   <sub>Demo sanitizado — <code>python samples/sanitized-demo.py</code></sub><br />
   <img src="./assets/rat-lab-sanitized-demo.png" alt="RAT lab — eventos simulados (JSON)" width="720" />
-</p>
-
-### Safe Exploit Education Lab
-
-<p align="center">
-  <sub>Relatório / pipeline educativo (simulação segura)</sub><br />
-  <img src="./assets/lab-exploit-education-terminal.png" alt="Exploit education lab — output no terminal" width="720" />
 </p>
 
 ## Oportunidades
