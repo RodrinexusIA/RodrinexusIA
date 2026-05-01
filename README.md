@@ -55,14 +55,6 @@ O **SaaS judicial** (coleta, jobs assíncronos, consulta e exportação de dados
 - **Stack**: Laravel 5.7 + Vue 2 + SQLite (local)
 - **Repo**: [RodrinexusIA/rodcassino](https://github.com/RodrinexusIA/rodcassino)
 
-### Preview (screenshots)
-
-<p align="center">
-  <img src="./assets/rodcassino-landing.png" alt="RodCassino — landing" width="720" />
-  <br />
-  <img src="./assets/rodcassino-slots.png" alt="RodCassino — máquina caça-níqueis" width="720" />
-</p>
-
 ## Outros projetos em destaque
 
 ### RAT Defensive Analysis Lab — blue team / detecção
@@ -72,6 +64,35 @@ O **SaaS judicial** (coleta, jobs assíncronos, consulta e exportação de dados
 ### Safe Exploit Education Lab — segurança defensiva (educacional)
 
 - **Repo**: [safe-exploit-education-lab](https://github.com/RodrinexusIA/safe-exploit-education-lab)
+
+## Pré-visualização (capturas de tela)
+
+Capturas alinhadas aos READMEs dos repositórios (**RodCassino**, **RAT Defensive Analysis Lab**, **Safe Exploit Education Lab**).
+
+### RodCassino (Laravel + Vue)
+
+<p align="center">
+  <img src="./assets/rodcassino-landing.png" alt="RodCassino — landing" width="720" />
+  <br />
+  <img src="./assets/rodcassino-slots.png" alt="RodCassino — máquina caça-níqueis" width="720" />
+</p>
+
+### RAT Defensive Analysis Lab
+
+<p align="center">
+  <sub>Banner — <code>python samples/portfolio_banner.py</code></sub><br />
+  <img src="./assets/rat-lab-portfolio-banner.png" alt="RAT lab — banner no terminal" width="720" />
+  <br /><br />
+  <sub>Demo sanitizado — <code>python samples/sanitized-demo.py</code></sub><br />
+  <img src="./assets/rat-lab-sanitized-demo.png" alt="RAT lab — eventos simulados (JSON)" width="720" />
+</p>
+
+### Safe Exploit Education Lab
+
+<p align="center">
+  <sub>Relatório / pipeline educativo (simulação segura)</sub><br />
+  <img src="./assets/lab-exploit-education-terminal.png" alt="Exploit education lab — output no terminal" width="720" />
+</p>
 
 ## Oportunidades
 
